@@ -25,7 +25,8 @@ between minor versions.
 ## Usage
 
 This package contains a `CompositeException` class with 2 methods: `add(\Throwable $e)` and `isEmtpy()`.
-Typical usage looks like this:
+
+Typical usage:
 
 ```php
 use Mouf\Utils\CompositeException;
