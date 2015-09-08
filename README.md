@@ -1,6 +1,9 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mouf/utils.composite-exception/badges/quality-score.png?b=1.0)](https://scrutinizer-ci.com/g/mouf/utils.composite-exception/?branch=1.0)
-[![Build Status](https://travis-ci.org/mouf/utils.composite-exception.svg?branch=1.0)](https://travis-ci.org/mouf/utils.composite-exception)
-[![Coverage Status](https://coveralls.io/repos/mouf/utils.composite-exception/badge.svg?branch=1.0&service=github)](https://coveralls.io/github/mouf/utils.composite-exception?branch=1.0)
+[![Latest Stable Version](https://poser.pugx.org/mouf/utils.composite-exception/version)](https://packagist.org/packages/mouf/utils.composite-exception)
+[![Latest Unstable Version](https://poser.pugx.org/mouf/utils.composite-exception/v/unstable)](//packagist.org/packages/mouf/utils.composite-exception)
+[![Total Downloads](https://poser.pugx.org/mouf/utils.composite-exception/downloads)](https://packagist.org/packages/mouf/utils.composite-exception)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/thecodingmachine/utils.composite-exception/badges/quality-score.png?b=1.0)](https://scrutinizer-ci.com/g/thecodingmachine/utils.composite-exception/?branch=1.0)
+[![Build Status](https://travis-ci.org/thecodingmachine/utils.composite-exception.svg?branch=1.0)](https://travis-ci.org/thecodingmachine/utils.composite-exception)
+[![Coverage Status](https://coveralls.io/repos/thecodingmachine/utils.composite-exception/badge.svg?branch=1.0&service=github)](https://coveralls.io/github/thecodingmachine/utils.composite-exception?branch=1.0)
 
 # Composite exception
 
