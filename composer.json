@@ -1,0 +1,22 @@
+{
+    "name": "mouf/utils.composite-exception",
+    "type": "library",
+    "description": "This project contains a simple PHP exception that can aggregate multiple exceptions in one.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mouf\\Utils\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mouf\\Utils\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "satooshi/php-coveralls": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
