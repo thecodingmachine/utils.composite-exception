@@ -33,7 +33,7 @@ class CompositeException extends \Exception
         $i = 0;
         foreach ($this->exceptions as $exception) {
             $i++;
-            $this->message .= "Exception n°$i: ". $exception->getMessage()."\n";
+            $this->message .= get_class($exception)." (n°$i): ". $exception->getMessage()."\n";
             $this->message .= "Stacktrace: ". $exception->getTraceAsString()."\n\n";
         }
     }
